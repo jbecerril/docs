@@ -113,6 +113,7 @@ the system automatically by way of memory-mapped files. Operating
 systems use the same approach with their file system caches.
 
 Are writes written to disk immediately, or lazily?
+
 --------------------------------------------------
 
 Writes are physically written to the journal within 100
